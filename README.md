@@ -14,7 +14,7 @@ Aspiring DevOps Engineer
 * Certifications:
   	- Comptia A +  
   	- Comptia Network +
-  	- Microsoft Azure fundamentals [AZ900]
-  	- Microsoft Azure Ai Fundamentals [AI900]
-  	- Microsoft Azure Database Fundamentals [DP900]
-  	- Amazon Certified Cloud Practitioner
+  	- Microsoft Azure Fundamentals 
+  	- Microsoft Azure AI Fundamentals 
+  	- Microsoft Azure Database Fundamentals
+  	- AWS Certified Cloud Practitioner
