@@ -16,5 +16,5 @@ Aspiring DevOps Engineer
   	- Comptia Network +
   	- Microsoft Azure Fundamentals 
   	- Microsoft Azure AI Fundamentals 
-  	- Microsoft Azure Database Fundamentals
+  	- Microsoft Azure Data Fundamentals
   	- AWS Certified Cloud Practitioner
