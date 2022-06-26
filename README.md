@@ -5,6 +5,7 @@ Aspiring DevOps Engineer
 * Currently Learning: 
   	- Front and Back End Web development: HTML, CSS, REST, SQL
   	- DevOps: Azure, Docker, Terraform, Ansible, Jenkins
+  	- Python
 
 * Experience:
   	- Azure Virtual Machines, Network Security Groups, Blob Storage, and VNets
