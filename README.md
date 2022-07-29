@@ -6,12 +6,7 @@ Aspiring DevOps Engineer
   	- Front and Back End Web development: HTML, CSS, REST, SQL
   	- DevOps: Azure, Docker, Terraform, Ansible, Jenkins
   	- Python
-
-* Experience:
-  	- Azure Virtual Machines, Network Security Groups, Blob Storage, and VNets
-  	- 5 years of Linux experience 
-  	- 2 months experience with Powershell [Automating tasks, Invoke command]
-
+    
 * Certifications:
   	- Comptia A +  
   	- Comptia Network +
