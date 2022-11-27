@@ -1,11 +1,10 @@
-Aspiring DevOps Engineer (or Full Stack Dev i'm not sure yet)
+Aspiring Full Stack Developer
 
 [![wakatime](https://wakatime.com/badge/user/c5e02bf1-d238-430c-b9c3-b6d83d2c3032.svg)](https://wakatime.com/@c5e02bf1-d238-430c-b9c3-b6d83d2c3032)
 
 * Currently Learning: 
   	- Front and Back End Web development: HTML, CSS, JavaScript, REST, SQL
-  	- DevOps: Azure, Docker, Terraform, Ansible, Jenkins
-  	- Python
+  	- C# and .NET
     
 * Certifications:
   	- Comptia A +  
