@@ -13,3 +13,16 @@ Aspiring Full Stack Developer
   	- Microsoft Azure AI Fundamentals 
   	- Microsoft Azure Data Fundamentals
   	- AWS Certified Cloud Practitioner
+
+* What I want to lean by 13/05/2023:
+    - [ ] JavaScript & Typescript Fundamentals
+    - [ ] React
+    - [ ] Tailwind CSS
+    - [ ] Node.js
+    - [ ] Express.js
+    - [ ] C# Fundamentals
+    - [ ] ASP.NET
+    - [ ] MongoDB
+    - [ ] SQL
+    - [ ] Cloud Functions
+    - [ ] Blazor
