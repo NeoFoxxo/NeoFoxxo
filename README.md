@@ -17,12 +17,8 @@ Aspiring Full Stack Developer
 * What I want to lean by 13/05/2024:
     - [ ] JavaScript & Typescript Fundamentals
     - [ ] React
-    - [ ] Tailwind CSS
-    - [ ] Node.js
-    - [ ] Express.js
     - [ ] C# Fundamentals
-    - [ ] ASP.NET
+    - [ ] ASP.NET Core
     - [ ] MongoDB
     - [ ] SQL Fundamentals 
     - [ ] Cloud Functions
-    - [ ] Blazor
