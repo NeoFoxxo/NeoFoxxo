@@ -2,8 +2,6 @@ Aspiring Full Stack Developer
 
 [![wakatime](https://wakatime.com/badge/user/c5e02bf1-d238-430c-b9c3-b6d83d2c3032.svg)](https://wakatime.com/@c5e02bf1-d238-430c-b9c3-b6d83d2c3032)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NeoFoxxo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 * Currently Learning: 
   	- Front and Back End Web development: HTML, CSS, JavaScript, REST, SQL
   	- C# and .NET
@@ -22,5 +20,4 @@ Aspiring Full Stack Developer
     - [ ] C# Fundamentals
     - [ ] ASP.NET Core
     - [ ] MongoDB
-    - [ ] SQL Fundamentals 
-    - [ ] Cloud Functions
+    - [ ] SQL Fundamentals
