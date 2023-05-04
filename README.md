@@ -20,4 +20,4 @@ Aspiring Full Stack Developer
     - [ ] C# Fundamentals
     - [ ] ASP.NET Core
     - [ ] MongoDB
-    - [ ] SQL Fundamentals
+    - [x] SQL Fundamentals
