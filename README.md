@@ -15,8 +15,8 @@ Aspiring Full Stack Developer
   	- AWS Certified Cloud Practitioner
 
 * What I want to lean by 13/05/2024:
-    - [ ] JavaScript & Typescript Fundamentals
-    - [ ] React
+    - [ ] JavaScript Fundamentals
+    - [ ] React & Next.js
     - [ ] C# Fundamentals
     - [ ] ASP.NET Core
     - [ ] MongoDB
