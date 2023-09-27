@@ -16,8 +16,9 @@ Aspiring Full Stack Developer
 
 * What I want to lean by 13/05/2024:
     - [x] JavaScript Fundamentals
-    - [ ] React & Next.js
+    - [x] Next.js
+    - [ ] Vanilla React.js (Vite, React Router, Redux)
     - [x] C# Fundamentals
     - [ ] ASP.NET Core
-    - [ ] MongoDB
+    - [x] MongoDB Fundamentals
     - [x] SQL Fundamentals
