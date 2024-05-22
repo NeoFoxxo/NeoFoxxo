@@ -1,7 +1,7 @@
 Passionate Full Stack Developer
 
 * Currently Learning: 
-  	- C# unit testing with NUnit
+  	- C++
   	- Data structures and algorithms
   	  
 * Skills:
