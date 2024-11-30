@@ -16,8 +16,9 @@ Passionate Full Stack Developer
   	- Unit & E2E Testing (Jest & Selenium)
   	  
 * Certifications:
-  	- Comptia A +  
+  	- AWS Certified DevOps Engineer Professional
   	- Comptia Network +
+  	- Comptia A +
   	- Microsoft Azure Fundamentals 
   	- Microsoft Azure AI Fundamentals 
   	- Microsoft Azure Data Fundamentals
