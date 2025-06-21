@@ -1,17 +1,13 @@
 Passionate Full Stack Developer
 
-* Currently Learning: 
-  	- C++
-  	- Data structures and algorithms
-  	  
 * Skills:
   	- TypeScript/JavaScript 
   	- React.js (Redux, React Router, React Query)
   	- Next.js (App router)
   	- C#
+    - SQL (Postgres, SQLServer, MySQL)
   	- ASP.NET Core
   	- .NET MAUI
-  	- SQL (Postgres, SQLServer, MySQL)
   	- MongoDB
   	- Unit & E2E Testing (Jest & Selenium)
   	  
